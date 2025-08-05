@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mock Test</title>
+  </head>
+  <body>
+    <script>
+      fetch('/products/1')
+        .then((res) => res.json())
+        .then((data) => console.log('Product:', data));
+    </script>
+  </body>
+</html>

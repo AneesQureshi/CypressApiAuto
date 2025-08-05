@@ -1,0 +1,17 @@
+{
+  "mockproduct": [
+    {
+      "id": 101,
+      "title": "Mocked Product A",
+      "price": 199
+    },
+    {
+      "id": 102,
+      "title": "Mocked Product B",
+      "price": 299
+    }
+  ],
+  "total": 2,
+  "skip": 0,
+  "limit": 30
+}
